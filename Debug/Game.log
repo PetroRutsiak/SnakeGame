@@ -1,0 +1,5 @@
+﻿  Game.cpp
+D:\Fugas\Projects\Game\Snake.h(51,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Fugas\Projects\Game\Snake.h(69,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Fugas\Projects\Game\Snake.h(202,25): warning C4018: <: несоответствие типов со знаком и без знака
+  Game.vcxproj -> D:\Fugas\Projects\Game\Debug\Game.exe
