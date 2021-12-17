@@ -1,6 +1,6 @@
 ## Snake game made in C++ with the SDL2 libraries
 ## Description
-Classic game "Snake"
+Classic game "Snake".
 The game in wich you manage a snake to eat fruit and avoid collisions with the walls and yourself. 
 ## COMPILE
 To run, you need to download the debug folder and run the exe file.
